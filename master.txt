@@ -1,2 +1,3 @@
 It's master branch
 Hello everyone!
+I created this repo to test and to try how git and github works)
